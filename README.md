@@ -18,7 +18,7 @@ Setelah di Run program akan terlihat seperti ini<P>
 
 ### Penjelasan Bahasa Program<P>
 
-- ![Gambar 5](Image/print.PNG) Fungsi print() digunakan untuk mencetak atau menampilkan objek ke perangkat output seperti layar atau ke file teks<p>
+- ![Gambar 5](Image/Print.PNG) Fungsi print() digunakan untuk mencetak atau menampilkan objek ke perangkat output seperti layar atau ke file teks<p>
 - ![Gambar 6](Image/input.PNG) Fungsi input() akan membaca sebaris input (biasanya dari pengguna via keyboard) sampai ditekannya tombol Enter untuk baris baru (newline)<P>
 - ![Gambar 7](Image/format.PNG) Fungsi format() digunakan untuk mengatur format string yang nantinya akan dicetak atau ditampilkan ke layar<p>
 
