@@ -2,11 +2,10 @@
 ## Cara Membuat Program Biodata Dengan Python
 ### Bahan yang di butuhkan
 - [Python](https://www.python.org)<p>
-### Membuat Program dengan Python
+### Membuat Program dengan Python<p>
 
 ![Gambar 1](Image/open.png)<p>
-Pertama buka "IDLE Python"<P>
-<P>
+<b>Pertama buka "IDLE Python"</b><P>
 
 ![Gambar 2](Image/New.png)<p>
 Setelah terbuka klik, File, New file<P>
