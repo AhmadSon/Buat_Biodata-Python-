@@ -4,17 +4,17 @@
 - [Python](https://www.python.org)<p>
 ### Membuat Program dengan Python<p>
 
-![Gambar 1](Image/open.png)<p>
 - Pertama buka <b>"IDLE Python"</b><P>
+![Gambar 1](Image/open.png)<p>
 
-![Gambar 2](Image/New.png)<p>
 - Setelah terbuka klik, File, New file<P>
+![Gambar 2](Image/New.png)<p>
 
+Setelah itu masukkan codingan seperti Gambar di bawah, lalu jangan lupa di save bila sudah selesai dengan "CTRL+S" lalu klik Run atau F5 untuk menjalankan program<p>
 ![Gambar 3](Image/end.PNG)<p>
-Setelah itu masukkan codingan seperti Gambar di atas, lalu jangan lupa di save bila sudah selesai dengan "CTRL+S" lalu klik Run atau F5 untuk menjalankan program<p>
 
-![Gambar 4](Image/program.PNG)<P>
 Setelah di Run program akan terlihat seperti ini<P>
+![Gambar 4](Image/program.PNG)<P>
 
 ### Penjelasan Bahasa Program<P>
 
