@@ -13,7 +13,7 @@
 - Setelah itu masukkan codingan seperti Gambar di bawah, lalu jangan lupa di save bila sudah selesai dengan "CTRL+S" lalu klik Run atau F5 untuk menjalankan program<p>
 ![Gambar 3](Image/end.PNG)<p>
 
-Setelah di Run program akan terlihat seperti ini<P>
+- Setelah di Run program akan terlihat seperti ini<P>
 ![Gambar 4](Image/program.PNG)<P>
 
 ### Penjelasan Bahasa Program<P>
